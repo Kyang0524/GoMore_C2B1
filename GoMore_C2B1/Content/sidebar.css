@@ -24,15 +24,15 @@
     padding-top: 30px;
 }
 
-    .sidebar-content a {
-        align-items: center;
-    }
+.sidebar-content a{
+    align-items: center;
+}
 
-        .sidebar-content a:hover {
-            background-color: var(--hover-color);
-            margin-left: 10px;
-            cursor: pointer;
-        }
+    .sidebar-content a:hover {
+        background-color: var(--hover-color);
+        margin-left: 10px;
+        cursor: pointer;
+    }
 
 .sidebar i {
     margin-right: 10px;
