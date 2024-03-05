@@ -61,11 +61,650 @@ namespace GoMore_C2B1.Resource {
         }
         
         /// <summary>
+        ///   查詢類似 About Us 的當地語系化字串。
+        /// </summary>
+        public static string AboutUs {
+            get {
+                return ResourceManager.GetString("AboutUs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查詢類似 Account Manager 的當地語系化字串。
         /// </summary>
         public static string Accountmanager {
             get {
                 return ResourceManager.GetString("Accountmanager", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Action 的當地語系化字串。
+        /// </summary>
+        public static string Action {
+            get {
+                return ResourceManager.GetString("Action", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Afghanistan 的當地語系化字串。
+        /// </summary>
+        public static string Afghanistan {
+            get {
+                return ResourceManager.GetString("Afghanistan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Albania 的當地語系化字串。
+        /// </summary>
+        public static string Albania {
+            get {
+                return ResourceManager.GetString("Albania", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Algeria {
+            get {
+                return ResourceManager.GetString("Algeria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string AmericanSamoa {
+            get {
+                return ResourceManager.GetString("AmericanSamoa", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Andorra {
+            get {
+                return ResourceManager.GetString("Andorra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Angola {
+            get {
+                return ResourceManager.GetString("Angola", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Anguilla {
+            get {
+                return ResourceManager.GetString("Anguilla", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string AntiguaBarbuda {
+            get {
+                return ResourceManager.GetString("AntiguaBarbuda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Argentina {
+            get {
+                return ResourceManager.GetString("Argentina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Armenia {
+            get {
+                return ResourceManager.GetString("Armenia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Aruba {
+            get {
+                return ResourceManager.GetString("Aruba", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Australia {
+            get {
+                return ResourceManager.GetString("Australia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Austria {
+            get {
+                return ResourceManager.GetString("Austria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Azerbaijan {
+            get {
+                return ResourceManager.GetString("Azerbaijan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Back to Login 的當地語系化字串。
+        /// </summary>
+        public static string BackToLogin {
+            get {
+                return ResourceManager.GetString("BackToLogin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bahamas {
+            get {
+                return ResourceManager.GetString("Bahamas", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bahrain {
+            get {
+                return ResourceManager.GetString("Bahrain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bangladesh {
+            get {
+                return ResourceManager.GetString("Bangladesh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Barbados {
+            get {
+                return ResourceManager.GetString("Barbados", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Belarus {
+            get {
+                return ResourceManager.GetString("Belarus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Belgium {
+            get {
+                return ResourceManager.GetString("Belgium", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Belize {
+            get {
+                return ResourceManager.GetString("Belize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Benin {
+            get {
+                return ResourceManager.GetString("Benin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bermuda {
+            get {
+                return ResourceManager.GetString("Bermuda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bhutan {
+            get {
+                return ResourceManager.GetString("Bhutan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bolivia {
+            get {
+                return ResourceManager.GetString("Bolivia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bonaire {
+            get {
+                return ResourceManager.GetString("Bonaire", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bosnia {
+            get {
+                return ResourceManager.GetString("Bosnia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Botswana {
+            get {
+                return ResourceManager.GetString("Botswana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Brazil {
+            get {
+                return ResourceManager.GetString("Brazil", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string British {
+            get {
+                return ResourceManager.GetString("British", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Brunei {
+            get {
+                return ResourceManager.GetString("Brunei", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Bulgaria {
+            get {
+                return ResourceManager.GetString("Bulgaria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string BurkinaFaso {
+            get {
+                return ResourceManager.GetString("BurkinaFaso", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Burundi {
+            get {
+                return ResourceManager.GetString("Burundi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Cambodia {
+            get {
+                return ResourceManager.GetString("Cambodia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Cameroon {
+            get {
+                return ResourceManager.GetString("Cameroon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Canada {
+            get {
+                return ResourceManager.GetString("Canada", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CanaryIslands {
+            get {
+                return ResourceManager.GetString("CanaryIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CapeVerde {
+            get {
+                return ResourceManager.GetString("CapeVerde", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CaymanIslands {
+            get {
+                return ResourceManager.GetString("CaymanIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CentralAfricanRepublic {
+            get {
+                return ResourceManager.GetString("CentralAfricanRepublic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Chad {
+            get {
+                return ResourceManager.GetString("Chad", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string ChannelIslands {
+            get {
+                return ResourceManager.GetString("ChannelIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Chile {
+            get {
+                return ResourceManager.GetString("Chile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string China {
+            get {
+                return ResourceManager.GetString("China", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please choose your country 的當地語系化字串。
+        /// </summary>
+        public static string ChooseCountry {
+            get {
+                return ResourceManager.GetString("ChooseCountry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string ChristmasIsland {
+            get {
+                return ResourceManager.GetString("ChristmasIsland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CocosIsland {
+            get {
+                return ResourceManager.GetString("CocosIsland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Colombia {
+            get {
+                return ResourceManager.GetString("Colombia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Comoros {
+            get {
+                return ResourceManager.GetString("Comoros", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Company / Organization 的當地語系化字串。
+        /// </summary>
+        public static string CompanyOrganization {
+            get {
+                return ResourceManager.GetString("CompanyOrganization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your company / organization 的當地語系化字串。
+        /// </summary>
+        public static string CompanyOrganizationPlaceholder {
+            get {
+                return ResourceManager.GetString("CompanyOrganizationPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Confirm Password 的當地語系化字串。
+        /// </summary>
+        public static string ConfirmPassword {
+            get {
+                return ResourceManager.GetString("ConfirmPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please confirm your password 的當地語系化字串。
+        /// </summary>
+        public static string ConfirmPasswordPlaceholder {
+            get {
+                return ResourceManager.GetString("ConfirmPasswordPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Congo {
+            get {
+                return ResourceManager.GetString("Congo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Contact Us 的當地語系化字串。
+        /// </summary>
+        public static string ContactUs {
+            get {
+                return ResourceManager.GetString("ContactUs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Your direct line to attentive customer service - we&apos;re here to assist you promptly. 的當地語系化字串。
+        /// </summary>
+        public static string ContactUsFeatures {
+            get {
+                return ResourceManager.GetString("ContactUsFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CookIslands {
+            get {
+                return ResourceManager.GetString("CookIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CostaRica {
+            get {
+                return ResourceManager.GetString("CostaRica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Cote D&apos;Ivoire 的當地語系化字串。
+        /// </summary>
+        public static string CoteDIvoire {
+            get {
+                return ResourceManager.GetString("CoteDIvoire", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Country 的當地語系化字串。
+        /// </summary>
+        public static string Country {
+            get {
+                return ResourceManager.GetString("Country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Croatia {
+            get {
+                return ResourceManager.GetString("Croatia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Cuba {
+            get {
+                return ResourceManager.GetString("Cuba", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Curacao {
+            get {
+                return ResourceManager.GetString("Curacao", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Cyprus {
+            get {
+                return ResourceManager.GetString("Cyprus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string CzechRepublic {
+            get {
+                return ResourceManager.GetString("CzechRepublic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Dashboard 的當地語系化字串。
+        /// </summary>
+        public static string Dashboard {
+            get {
+                return ResourceManager.GetString("Dashboard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Denmark {
+            get {
+                return ResourceManager.GetString("Denmark", resourceCulture);
             }
         }
         
@@ -79,11 +718,290 @@ namespace GoMore_C2B1.Resource {
         }
         
         /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Djibouti {
+            get {
+                return ResourceManager.GetString("Djibouti", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Dominica {
+            get {
+                return ResourceManager.GetString("Dominica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string DominicanRepublic {
+            get {
+                return ResourceManager.GetString("DominicanRepublic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string EastTimor {
+            get {
+                return ResourceManager.GetString("EastTimor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Ecuador {
+            get {
+                return ResourceManager.GetString("Ecuador", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Edit 的當地語系化字串。
+        /// </summary>
+        public static string Edit {
+            get {
+                return ResourceManager.GetString("Edit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Egypt {
+            get {
+                return ResourceManager.GetString("Egypt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string ElSalvador {
+            get {
+                return ResourceManager.GetString("ElSalvador", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Email Address 的當地語系化字串。
+        /// </summary>
+        public static string Email {
+            get {
+                return ResourceManager.GetString("Email", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your email address 的當地語系化字串。
+        /// </summary>
+        public static string EmailPlaceholder {
+            get {
+                return ResourceManager.GetString("EmailPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string EquatorialGuinea {
+            get {
+                return ResourceManager.GetString("EquatorialGuinea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Eritrea {
+            get {
+                return ResourceManager.GetString("Eritrea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Estonia {
+            get {
+                return ResourceManager.GetString("Estonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Ethiopia {
+            get {
+                return ResourceManager.GetString("Ethiopia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查詢類似 Factory 的當地語系化字串。
         /// </summary>
         public static string Factory {
             get {
                 return ResourceManager.GetString("Factory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Upload, Customize, Create - Your gateway to transform 3D models into personalized creations. 的當地語系化字串。
+        /// </summary>
+        public static string FactoryFeatures {
+            get {
+                return ResourceManager.GetString("FactoryFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string FalklandIslands {
+            get {
+                return ResourceManager.GetString("FalklandIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string FaroeIslands {
+            get {
+                return ResourceManager.GetString("FaroeIslands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Features Description 的當地語系化字串。
+        /// </summary>
+        public static string FeaturesDescription {
+            get {
+                return ResourceManager.GetString("FeaturesDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Fiji {
+            get {
+                return ResourceManager.GetString("Fiji", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Finland {
+            get {
+                return ResourceManager.GetString("Finland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 First Name 的當地語系化字串。
+        /// </summary>
+        public static string FirstName {
+            get {
+                return ResourceManager.GetString("FirstName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your first name 的當地語系化字串。
+        /// </summary>
+        public static string FirstNamePlaceholder {
+            get {
+                return ResourceManager.GetString("FirstNamePlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Forgot Password 的當地語系化字串。
+        /// </summary>
+        public static string ForgotPassword {
+            get {
+                return ResourceManager.GetString("ForgotPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string France {
+            get {
+                return ResourceManager.GetString("France", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string FrenchGuiana {
+            get {
+                return ResourceManager.GetString("FrenchGuiana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string FrenchPolynesia {
+            get {
+                return ResourceManager.GetString("FrenchPolynesia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string FrenchSouthernTer {
+            get {
+                return ResourceManager.GetString("FrenchSouthernTer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Gabon {
+            get {
+                return ResourceManager.GetString("Gabon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似  的當地語系化字串。
+        /// </summary>
+        public static string Gambia {
+            get {
+                return ResourceManager.GetString("Gambia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Last Name 的當地語系化字串。
+        /// </summary>
+        public static string LastName {
+            get {
+                return ResourceManager.GetString("LastName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your last name 的當地語系化字串。
+        /// </summary>
+        public static string LastNamePlaceholder {
+            get {
+                return ResourceManager.GetString("LastNamePlaceholder", resourceCulture);
             }
         }
         
@@ -97,11 +1015,182 @@ namespace GoMore_C2B1.Resource {
         }
         
         /// <summary>
+        ///   查詢類似 Your space to effortlessly store and showcase 3D models. 的當地語系化字串。
+        /// </summary>
+        public static string LibraryFeatures {
+            get {
+                return ResourceManager.GetString("LibraryFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Log In 的當地語系化字串。
+        /// </summary>
+        public static string Login {
+            get {
+                return ResourceManager.GetString("Login", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Minimum 8 characters 的當地語系化字串。
+        /// </summary>
+        public static string minimum8char {
+            get {
+                return ResourceManager.GetString("minimum8char", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查詢類似 Model Manager 的當地語系化字串。
         /// </summary>
         public static string Modelmanager {
             get {
                 return ResourceManager.GetString("Modelmanager", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Next 的當地語系化字串。
+        /// </summary>
+        public static string Next {
+            get {
+                return ResourceManager.GetString("Next", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Occupation 的當地語系化字串。
+        /// </summary>
+        public static string Occupation {
+            get {
+                return ResourceManager.GetString("Occupation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your occupation 的當地語系化字串。
+        /// </summary>
+        public static string OccupationPlaceholder {
+            get {
+                return ResourceManager.GetString("OccupationPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 At least one digit 的當地語系化字串。
+        /// </summary>
+        public static string OneDigit {
+            get {
+                return ResourceManager.GetString("OneDigit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 At lease one lowercase letter 的當地語系化字串。
+        /// </summary>
+        public static string OneLowercaseLetter {
+            get {
+                return ResourceManager.GetString("OneLowercaseLetter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 At lease one special characters letter 的當地語系化字串。
+        /// </summary>
+        public static string OneSpecialChar {
+            get {
+                return ResourceManager.GetString("OneSpecialChar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 At least one uppercase letter 的當地語系化字串。
+        /// </summary>
+        public static string OneUppercaseLetter {
+            get {
+                return ResourceManager.GetString("OneUppercaseLetter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Password 的當地語系化字串。
+        /// </summary>
+        public static string Password {
+            get {
+                return ResourceManager.GetString("Password", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your password 的當地語系化字串。
+        /// </summary>
+        public static string PasswordPlaceholder {
+            get {
+                return ResourceManager.GetString("PasswordPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Password Requirements 的當地語系化字串。
+        /// </summary>
+        public static string PasswordRequirements {
+            get {
+                return ResourceManager.GetString("PasswordRequirements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Previous 的當地語系化字串。
+        /// </summary>
+        public static string Previous {
+            get {
+                return ResourceManager.GetString("Previous", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Recover your password 的當地語系化字串。
+        /// </summary>
+        public static string RecoverPassword {
+            get {
+                return ResourceManager.GetString("RecoverPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Register 的當地語系化字串。
+        /// </summary>
+        public static string Register {
+            get {
+                return ResourceManager.GetString("Register", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Register Your Account 的當地語系化字串。
+        /// </summary>
+        public static string RegisterAccount {
+            get {
+                return ResourceManager.GetString("RegisterAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Reset 的當地語系化字串。
+        /// </summary>
+        public static string Reset {
+            get {
+                return ResourceManager.GetString("Reset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Role 的當地語系化字串。
+        /// </summary>
+        public static string Role {
+            get {
+                return ResourceManager.GetString("Role", resourceCulture);
             }
         }
         
@@ -115,11 +1204,65 @@ namespace GoMore_C2B1.Resource {
         }
         
         /// <summary>
+        ///   查詢類似 Explore, Interact, Organize - Seamlessly view and engage with 3D models while managing project timelines. 的當地語系化字串。
+        /// </summary>
+        public static string ScheduleFeatures {
+            get {
+                return ResourceManager.GetString("ScheduleFeatures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Select Role 的當地語系化字串。
+        /// </summary>
+        public static string SelectRole {
+            get {
+                return ResourceManager.GetString("SelectRole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Sign in to your account 的當地語系化字串。
+        /// </summary>
+        public static string SignInAcc {
+            get {
+                return ResourceManager.GetString("SignInAcc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Taiwan 的當地語系化字串。
+        /// </summary>
+        public static string Taiwan {
+            get {
+                return ResourceManager.GetString("Taiwan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查詢類似 Upload 的當地語系化字串。
         /// </summary>
         public static string Upload {
             get {
                 return ResourceManager.GetString("Upload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Username 的當地語系化字串。
+        /// </summary>
+        public static string Username {
+            get {
+                return ResourceManager.GetString("Username", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 Please enter your username 的當地語系化字串。
+        /// </summary>
+        public static string UsernamePlaceholder {
+            get {
+                return ResourceManager.GetString("UsernamePlaceholder", resourceCulture);
             }
         }
     }
