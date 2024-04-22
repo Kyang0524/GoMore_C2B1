@@ -178,8 +178,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\FactoryModel.cs" />
+    <Compile Include="Models\LinkFileModel.cs" />
     <Compile Include="Models\LoginView.cs" />
     <Compile Include="Models\Manager.cs" />
+    <Compile Include="Models\ModelNameDB.cs" />
     <Compile Include="Models\RegisterView.cs" />
     <Compile Include="Models\USERCLASS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -304,6 +306,7 @@
     <Content Include="Views\UserModel\UserManagement.cshtml" />
     <Content Include="Views\UserModel\ModelManagement.cshtml" />
     <Content Include="Views\Factory\Download.cshtml" />
+    <Content Include="Views\Schedule\LinkFile.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

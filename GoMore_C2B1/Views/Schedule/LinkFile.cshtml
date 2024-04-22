@@ -1,0 +1,18 @@
+﻿@using GoMore_C2B1.Models;
+@{
+    ViewBag.Title = "LinkFile";
+    List<ModelNameDB> modelNameDBs = ViewBag.models;
+}
+
+<form action="~/Schedule/LinkFile" method="post" enctype="multipart/form-data">
+    <select name="MainModel">
+        @foreach (ModelNameDB model in modelNameDBs)
+        {
+            <option value="@Html.DisplayFor(modelItem => model.ModelName)">@Html.DisplayFor(modelItem => model.ModelName)</option>
+        }
+    </select>
+
+    <input type="file" name="UnitFile">
+    <input type="text" name="Tag">
+    <button type="submit">send</button>
+</form>
